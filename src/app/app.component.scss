@@ -1,0 +1,25 @@
+.user-form {
+  display: flex;
+  gap: 16px;
+}
+
+.user-list {
+  display: flex;
+  flex-direction: column;
+  padding-top: 16px;
+}
+
+p {
+  background-color: teal;
+  padding: 4px 4px 4px 12px;
+  margin: 0 0 4px 0;
+  display: flex;
+  width: fit-content;
+  border-radius: 16px;
+}
+
+.icon-button {
+  background: none;
+  border: none;
+  color: palevioletred;
+}
